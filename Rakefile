@@ -32,7 +32,7 @@ end
 
 RSpec::Core::RakeTask.new('spec') do |t|
   t.rcov = false
-  t.pattern = "spec/**/*-spec.rb"
+  t.pattern = ["spec/**/*-spec.rb"]
   t.rspec_opts = ['--colour', '--format', 'doc', '-b']
   t.verbose = true
 end
