@@ -18,7 +18,6 @@
 
 require 'rubygems'
 require 'rspec'
-require 'boxgrinder-core/compat/yaml19'
 require 'boxgrinder-core/helpers/appliance-transformation-helper'
 
 module BoxGrinder
