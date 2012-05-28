@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    blankslate (2.1.2.4)
+    hashery (1.5.0)
+      blankslate
+    kwalify (0.7.2)
+    open4 (1.3.0)
+    term-ansicolor (1.0.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hashery (~> 1.3)
+  kwalify (~> 0.7)
+  open4 (~> 1.0)
+  term-ansicolor (~> 1.0)
