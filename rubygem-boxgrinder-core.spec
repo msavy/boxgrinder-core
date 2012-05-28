@@ -90,7 +90,7 @@ popd
 
 %changelog
 * Thu May 24 2012 Marc Savy <msavy@redhat.com> - 0.3.12
-- Upstream release: 0.3.11
+- Upstream release: 0.3.12
 - Support for printing coloured terminal output 
 
 * Wed Feb 29 2012 Marc Savy <msavy@redhat.com> - 0.3.11
